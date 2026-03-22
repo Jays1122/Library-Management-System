@@ -1,0 +1,28 @@
+# =========================
+# FRONTEND (React/Vite)
+# =========================
+logs
+*.log
+npm-debug.log*
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# =========================
+# BACKEND (.NET Core/C#)
+# =========================
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
+*.user
+appsettings.Development.json
+
+# =========================
+# GENERAL EDITORS
+# =========================
+**/.vscode/
+.idea
+.DS_Store
+*.sln
+*.suo
